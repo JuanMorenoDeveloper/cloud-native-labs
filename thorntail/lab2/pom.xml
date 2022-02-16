@@ -42,7 +42,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
 
     <version.thorntail>2.4.0.Final-redhat-00013</version.thorntail>
-    <version.postgresql>42.2.25</version.postgresql>
+    <version.postgresql>42.3.3</version.postgresql>
     <version.h2>2.1.210</version.h2>
     <failOnMissingWebXml>false</failOnMissingWebXml>
 
